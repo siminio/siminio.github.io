@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I am a profesional software developer. I love Haskell because of its elegance and the fact that it is a pure functional programming language. In this blog, I try to explain how some Codingame puzzles can be solved with this programming language.
