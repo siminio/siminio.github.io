@@ -3,7 +3,7 @@ layout: post
 title: Solution of the puzzle Temperatures
 ---
 
-In this puzzle, I will show you how to do compare values in an array in Haskell.
+In this puzzle, I will show you how to compare values in an array in Haskell.
 
 ### Description
 
